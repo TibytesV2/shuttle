@@ -1,5 +1,4 @@
 {
-  "description": "Unblocker website w/ Ultraviolet",
   "main": "index.js",
   "type": "module",
   "scripts": {
